@@ -33,4 +33,4 @@ name:'Cron Test 1 * *  *  *'
 on:
   push:
   schedule:
-    - cron:'1 * *  *  * '
+    - cron: ' * 21 * * *  '
